@@ -17,7 +17,7 @@
 
 * 主界面：显示日历，和今天需要打卡的习惯(习惯图片、习惯名称、打卡地点等)
 
-![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222074806%E5%9B%BE%E7%89%871.png)
+![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%871.png)
 
 * 全部界面：显示进行中和已结束的习惯，同时可以添加习惯。
 
