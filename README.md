@@ -21,15 +21,15 @@
 
 * 全部界面：显示进行中和已结束的习惯，同时可以添加习惯。
 
-![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222074814%E5%9B%BE%E7%89%872.png) ![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222092143%E5%9B%BE%E7%89%875.png)
+![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%875.png) ![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222092143%E5%9B%BE%E7%89%875.png)
 
 * 时钟界面：可以设置时钟倒计时，播放音乐等。
 
-![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222074819%E5%9B%BE%E7%89%873.png)![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222092150%E5%9B%BE%E7%89%876.png)
+![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%873.png)![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%876.png)
 
 * 我的界面：可以设置用户头像，提供图表分析等服务。
 
-![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222074827%E5%9B%BE%E7%89%874.png)![](https://images.cnblogs.com/cnblogs_com/zhongyuanzhao000/1935096/o_210222092154%E5%9B%BE%E7%89%877.png)
+![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%874.png)![](https://github.com/zhongyuanzhao000/LittleHabits/blob/master/image/%E5%9B%BE%E7%89%877.png)
 
 ### Issue
 
